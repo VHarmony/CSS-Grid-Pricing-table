@@ -13,7 +13,7 @@ body {
     background-color: #fff;
     padding: 20px;
     border: 1px solid #ddd;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1), green, blue, alpha);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1), green, blue, alpha;
 }
 
 button {
